@@ -9,8 +9,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage":"http://marcel41.github.io/boxingPag",
+  "homepage": "http://marcel41.github.io/boxingPag",
   "dependencies": {
-    "gh-pages": "^2.1.0"
+    "gh-pages": "^2.0.1"
   }
 }
