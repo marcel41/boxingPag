@@ -4,12 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d boxing"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage":"https://marcel41.github.io/boxingPag",
+  "homepage":"http://marcel41.github.io/boxingPag",
   "dependencies": {
     "gh-pages": "^2.1.0"
   }
